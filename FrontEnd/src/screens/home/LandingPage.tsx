@@ -643,7 +643,7 @@ export default function LandingPage() {
             </a>
           </nav>
         </div>
-        <div className="mt-8 flex justify-center">
+        {/* <div className="mt-8 flex justify-center">
           <div className="bg-gradient-to-r from-emerald-600/20 via-teal-600/20 to-emerald-600/20 backdrop-blur-sm border border-emerald-500/30 rounded-2xl px-6 py-3 shadow-lg hover:shadow-emerald-500/20 transition-all duration-300">
             <p className="text-emerald-200 font-medium">
               Developed by
@@ -652,7 +652,7 @@ export default function LandingPage() {
               </span>
             </p>
           </div>
-        </div>
+        </div> */}
       </footer>
     </div>
   );
